@@ -1,2 +1,2 @@
-npm install -g ijavascript
-ijsinstall
+conda install nodejs
+npm install -g inodejs
